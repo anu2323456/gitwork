@@ -1,0 +1,10 @@
+git init
+-initializing git
+git status
+-it will list all untracked files
+git add -A
+- Adding changes to staging area
+git commit -m "message"
+-adding staged files to local repository
+git 
+git remote add text
